@@ -9,7 +9,7 @@ open cmd and
 
 `pip install -r requirements.txt`
 
-open main.py
+open main.exe
 
 ----------------------------------------------------------------
 
