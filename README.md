@@ -14,3 +14,7 @@ open main.py
 ----------------------------------------------------------------
 
 Dm me for suggestions find me in this discord server "https://discord.gg/WFgCuq74wt"
+
+
+[![Python](https://img.shields.io/badge/language-language_name-blue.svg)](https://www.python.org/)
+
