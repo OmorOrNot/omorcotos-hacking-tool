@@ -13,7 +13,7 @@ open main.exe
 
 ----------------------------------------------------------------
 
-Dm me for suggestions find me in this discord server "https://discord.gg/WFgCuq74wt"
+Dm me for suggestions my discord is "omorcoto"
 
 
 [![Python](https://img.shields.io/badge/language-language_name-blue.svg)](https://www.python.org/)
